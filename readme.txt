@@ -1,8 +1,8 @@
-Modulator amplitudy, moduluje sinus o wyznaczonych parametrach
+Modulator amplitudowy, moduluje sinus o wyznaczonych parametrach
 
 Wzor:
-    Nosna=sin(x), gdzie x=czestotliwosci nosnej
-    Sygnal wejsciowy=sin(z), gdzie z=czestotliwosci sygnalu
+    Nosna=sin(x), gdzie x=faza czestotliwosci nosnej
+    Sygnal wejsciowy=sin(z), gdzie z=faza czestotliwosci sygnalu
     Zmodulowany sygnal=Nosna*Sygnal wejsciowy=sin(x)*sin(z)
 
 Wyjscie:
